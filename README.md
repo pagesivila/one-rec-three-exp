@@ -1,7 +1,7 @@
 # One Reconstruction, Three Experiences: Expert Insights into Mediated Access to a Digitally Reconstructed Lost Altarpiece
 
 This is the official repository of:
-*One Reconstruction, Three Experiences: Expert Insights into Mediated Access to a Digitally Reconstructed Lost Altarpiece.*Pagès-Vilà, A.; Potenziani, M; Callieri, M; Munoz-Pandiella, I. JOCCH 2026.
+_One Reconstruction, Three Experiences: Expert Insights into Mediated Access to a Digitally Reconstructed Lost Altarpiece._ Pagès-Vilà, A.; Potenziani, M; Callieri, M; Munoz-Pandiella, I. JOCCH 2026.
 
 
 ## Status
@@ -13,12 +13,12 @@ This is the official repository of:
 ## Included Applications
 This repository provides the software artifacts for two of the interactive experiences evaluated in the study:
 
-### 1. Touchscreen Kiosk Application (/Kiosk_App)
+### 1. Touchscreen Kiosk Application (/kiosk)
 * Description: An interactive application designed for public, mediated kiosk displays.
 * Target Hardware: Touchscreen monitors / interactive kiosks.
 * Key Features: UI/UX optimized for intuitive touch navigation, detail inspection, and contextual altarpiece history.
 
-### 2. Virtual Reality Application (/VR_App)
+### 2. Virtual Reality Application (/vr_app)
 * Description: An immersive VR experience offering 1:1 scale exploration of the digitally reconstructed altarpiece.
 * Target Hardware: (e.g., Meta Quest / HTC Vive / SteamVR compatible headsets).
 * Key Features: Immersive navigation, spatial audio, and interactive inspection modes.
@@ -31,8 +31,10 @@ one-rec-three-exp/
 │   └── paper/         # Research paper (PDF, supplementary material, etc.)  
 ├── kiosk/
 │   └── ...            # Code of the kiosk application
-├── vr-app/
+│   └── README.md      # Global project overview, architecture summary, and setup instructions 
+├── vr_app/
 │   └── ...            # Code of the VR application
+│   └── README.md      # Global project overview, architecture summary, and setup instructions
 └── README.md          # This file
 ```
 
