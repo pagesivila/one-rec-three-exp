@@ -1,5 +1,7 @@
 # One Reconstruction, Three Experiences: Expert Insights into Mediated Access to a Digitally Reconstructed Lost Altarpiece
 
+![Teaser](https://github.com/user-attachments/assets/1b45d066-971c-44f4-9c28-928d38fd2666)
+
 This is the official repository of:
 _One Reconstruction, Three Experiences: Expert Insights into Mediated Access to a Digitally Reconstructed Lost Altarpiece._ Pagès-Vilà, A.; Potenziani, M; Callieri, M; Munoz-Pandiella, I. JOCCH 2026.
 
